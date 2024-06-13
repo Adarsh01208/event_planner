@@ -1,4 +1,4 @@
-Certainly! Here's the revised README file without the image:
+Certainly! Here's the revised README file with added sections for contribution guidelines and license:
 
 ---
 
@@ -10,7 +10,9 @@ Certainly! Here's the revised README file without the image:
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Quick Start](#quick-start)
-5. [Links](#links)
+5. [Contribution](#contribution)
+6. [License](#license)
+7. [Links](#links)
 
 ## Introduction <a name="introduction"></a>
 
@@ -51,7 +53,7 @@ The Event Planner App, built on Next.js 14, is a comprehensive platform for mana
 
 ```bash
 git clone https://github.com/Adarsh01208/event_planner.git
-cd your-project
+cd event_planner
 ```
 
 ### Installation
@@ -86,6 +88,21 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+## Contribution <a name="contribution"></a>
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/improvement`).
+6. Create a new Pull Request.
+
+## License <a name="license"></a>
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Links <a name="links"></a>
 
 - [Live Demo](https://event-platform-dev.vercel.app/)
@@ -93,5 +110,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ---
 
-
-This README provides an overview of the Event Planner App, including its tech stack, features, setup instructions, and relevant links. Adjust the content and links to match your actual project details.
+Please let me know if you need any further modifications or additions! 😊
+```
+ Please do give a ⭐️ if you find this project useful. Happy coding! 🚀

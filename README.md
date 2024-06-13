@@ -50,7 +50,7 @@ The Event Planner App, built on Next.js 14, is a comprehensive platform for mana
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Adarsh01208/event_planner.git
 cd your-project
 ```
 
@@ -92,5 +92,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 - [Repository](https://github.com/Adarsh01208/event_planner)
 
 ---
+
 
 This README provides an overview of the Event Planner App, including its tech stack, features, setup instructions, and relevant links. Adjust the content and links to match your actual project details.

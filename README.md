@@ -112,5 +112,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Please let me know if you need any further modifications or additions! 😊
 ```
-Please do give a ⭐️ if you find this project useful. Happy coding! 🚀
+
+I hope this helps! Feel free to reach out if you have any more requests or questions. 🚀
 ```

@@ -1,6 +1,3 @@
-Certainly! Here's the revised README file with added sections for contribution guidelines and license:
-
----
 
 # Event Planner App
 
@@ -111,7 +108,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Please let me know if you need any further modifications or additions! 😊
-```
-
-I hope this helps! Feel free to reach out if you have any more requests or questions. 🚀
 ```

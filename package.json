@@ -1,6 +1,8 @@
 {
-  "name": "evently",
+  "name": "event-planner-app",
   "version": "0.1.0",
+  "description": "Event Planner App",
+  "author": "Adarsh Singh",
   "private": true,
   "scripts": {
     "dev": "next dev",
